@@ -34,4 +34,4 @@ The important part here is the "Preserve query string" option being checked. Thi
 
 `.new` TLDs cost ~$400/yr. It's kind of dumb to think that we spent all of our time making browser extensions to act as shortcuts to other websites, when it's now as simple as typing `doc.new` to get a new Google Sheet, or `repo.new` to start a new GitHub repository. As funny as it was to buy this domain, I do believe there to be value in it. Websites around the internet can now link to it to easily share tweets and links alike.
 
-I'm happy to pay to add value to the internet, but if you'd like to help keep this domain alive (and by proxy, the other things that I do), please consider [sponsoring](/jbrooksuk/tweet.new?sponsor=1). We'll also maintain a list of sponsors here 👇
+I'm happy to pay to add value to the internet, but if you'd like to help keep this domain alive (and by proxy, the other things that I do), please consider [sponsoring](https://github.com/sponsors/jbrooksuk). We'll also maintain a list of sponsors here 👇
